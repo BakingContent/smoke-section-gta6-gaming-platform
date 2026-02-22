@@ -14,7 +14,8 @@ Platform
 
 🎥 YouTube:
 🟣 Twitch:
-💬 Discord:https://discord.gg/b3xSvFke
+💬 Discord:
+https://discord.gg/b3xSvFke
 🐦 Twitter/X:
 🌐 Website:
 
